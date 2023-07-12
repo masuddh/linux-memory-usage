@@ -1,0 +1,15 @@
+{
+  "name": "memory-usage-linux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "masuddh_",
+  "license": "ISC",
+  "dependencies": {
+    "console-table-printer": "^2.11.2"
+  }
+}
